@@ -33,7 +33,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-image: url("/images/smidgens.jpg");
+  background-image: url("../images/smidgens.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-color: #333; }
